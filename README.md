@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Emmanuel Olaniyi
+# Portfolio
+## Profile
+-  👋 Hi, I’m Emmanuel Olaniyi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning backend Node and Express
 - 📫 How to reach me ...
@@ -6,6 +8,7 @@
 - ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white):2348088443186
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/emmanuel-olaniyi-b86b04203/
 
+## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
