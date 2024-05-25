@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **olaimarnoel@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tBT_NL2omNpaynnsQ6yVbpVMJOpv5eHW/edit?usp=sharing&ouid=106744658438463780893&rtpof=true&sd=true](https://docs.google.com/document/d/1tBT_NL2omNpaynnsQ6yVbpVMJOpv5eHW/edit?usp=sharing&ouid=106744658438463780893&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TGNhWuCWcH0NEUgX4QddSbmIp3c_1QL6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
