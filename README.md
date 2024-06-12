@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Olaniyi</h1>
-<h3 align="center">Fullstack Developer with experience working with Nexjs, Nodejs and Django </h3>
+<h3 align="center">Fullstack Developer with experience working with Nextjs, Nodejs and Django </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himarnoel&label=Profile%20views&color=0e75b6&style=flat" alt="himarnoel" /> </p>
 
